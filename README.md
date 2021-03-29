@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br />
+<a href="https://github.com/walczy/walczy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=glebshendrik&show_icons=true&theme=radical" />
+</a>
